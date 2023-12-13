@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋, I am Chaitanya
+
+I am a Student at International Institute of Information Technology.
+Currently Pursuing Bachelor's Degree in Computer Enginnering
 
 <!--
 **Chaitanya110703/Chaitanya110703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
